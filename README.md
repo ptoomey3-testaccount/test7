@@ -1,1 +1,1 @@
-a = "4ekvoj6ggsvgeac2nj7xbmnkmudqat3eta42aomb266b7clwmnta" 
+d = "AccountName=devstoreaccount1;AccountKey=Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==" 
