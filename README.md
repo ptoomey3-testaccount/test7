@@ -1,2 +1,2 @@
 
-d = "GITHUB_TEST_TOKEN_f3cadbc97629b0aaac9ecabaa0f661456042de6e"
+d = "af788c6d262c53ed1c8e4b2a270a586978748219"
