@@ -1,1 +1,1 @@
-a = "GITHUB_TEST_TOKEN_c996e259b349f94e1bfef85611590c3ead2ab43b"
+a = "test1"
